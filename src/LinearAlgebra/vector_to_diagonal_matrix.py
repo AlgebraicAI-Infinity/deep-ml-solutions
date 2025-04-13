@@ -4,7 +4,6 @@
 
 
 import numpy as np
-
 class Solution :
     """ proper numpy method """
     @staticmethod
@@ -23,13 +22,6 @@ class Solution :
             diagonal_matrix[i][i] = vector1[i]
 
         return diagonal_matrix
-
-
-
-
-
-
-
 
 sol=Solution()
 nums=[1,2,3]
