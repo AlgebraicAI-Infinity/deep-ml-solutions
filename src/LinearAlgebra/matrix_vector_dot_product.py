@@ -1,4 +1,5 @@
 # Problem link : https://www.deep-ml.com/problems/1
+# Contributor : Vivek Sharma
 """ Time complexity : O(m*n)
     Space complexity : O(n)
 """

@@ -1,5 +1,6 @@
 # Problem Link : https://www.deep-ml.com/problems/76?from=Linear%20Algebra
 # Resources : https://en.wikipedia.org/wiki/Cosine_similarity
+# Contributor : Vivek Sharma
 
 import math
 import numpy as np

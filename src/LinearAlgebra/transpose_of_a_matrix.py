@@ -1,5 +1,6 @@
 # Problem link : https://www.deep-ml.com/problems/2?from=Linear%20Algebra
 # RESOURCE : https://en.wikipedia.org/wiki/Transpose
+# Contributor : Vivek Sharma
 """
     Time complexity : O(C*R)
     Space complexity : O(C*R)
